@@ -91,7 +91,7 @@ jobs:
           paths: [frontend/node_modules]
           key: frontend-test
 
-    test-backend:
+  test-backend:
     docker:
       # Docker image here
       - image: circleci/node:13.8.0
