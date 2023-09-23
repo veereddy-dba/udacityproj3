@@ -114,7 +114,7 @@ jobs:
           key: backend-test
 
 
- scan-frontend:
+  scan-frontend:
     docker:
       # Docker image here
       - image: circleci/node:13.8.0
@@ -139,7 +139,7 @@ jobs:
           key: scanfrontend-test
 
 
- scan-backend:
+  scan-backend:
     docker:
       # Docker image here
       - image: circleci/node:13.8.0
