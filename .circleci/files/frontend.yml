@@ -12,7 +12,8 @@ Resources:
     Properties:
       BucketName: !Sub "udapeople-${ID}"
       # AccessControl: PublicRead
-      PublicAccessBlockConfiguration:
+      PublicAccessBlockConfiguration: 
+        BlockPublicPolicy: false
       WebsiteConfiguration:
         IndexDocument: index.html
         ErrorDocument: 404.html
