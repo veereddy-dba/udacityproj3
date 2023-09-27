@@ -1,11 +1,8 @@
+https://github.com/veereddy-dba/udacityproj3 
 
-A public git repository with your project code. [URL01]
 
-https://github.com/veereddy-dba/udacityproj3  
 
-Evidence of deployed and functioning front-end application in an S3 bucket [URL02]. 
- 
-http://d34n0byub8g3ay.cloudfront.net/
+Working S3 Bucket - Url
 
- 
 
+http://udapeople-4984df5.s3-website-us-east-1.amazonaws.com/#/employees
